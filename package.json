@@ -1,0 +1,16 @@
+{
+  "name": "worktime-tracker",
+  "license": "MIT",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.ts"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
