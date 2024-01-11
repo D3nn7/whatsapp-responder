@@ -1,6 +1,8 @@
 # whatsapp-responder
 A simple script which automatically responds to new WhatsApp messages
 
+![I use Signal](./.github/i_use_signal.jpg)
+
 ## Current functions:
 - send a "I use Signal" message everytime a new message received
 
